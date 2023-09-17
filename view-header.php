@@ -21,14 +21,18 @@
           <a class="nav-link active" aria-current="page" href="#">Home</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="#">Features</a>
+          <a class="nav-link" href="post.php">Post</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="#">Pricing</a>
+          <a class="nav-link" href="post-result.php">Post result</a>
         </li>
-        <li class="nav-item">
-          <a class="nav-link disabled" aria-disabled="true">Disabled</a>
+           <li class="nav-item">
+          <a class="nav-link" href="get.php">Get</a>
         </li>
+           <li class="nav-item">
+          <a class="nav-link" href="get-result.php">Get result</a>
+        </li>
+       
       </ul>
     </div>
   </div>
