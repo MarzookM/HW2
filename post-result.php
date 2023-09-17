@@ -8,7 +8,7 @@ if(isset($_POST['my-name'])){
   ?>
   <p> The value send is:</p>
 <?php
-  echo $_Post['my-name'};
+  echo $_Post['my-name']};
 }
 else {
   ?>
